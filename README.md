@@ -1,5 +1,7 @@
 # Email and password example with 2FA in Next.js
 
+> 这是给 [lucia-auth](https://github.com/lucia-auth/lucia) 官方的样例加上了详细文档和行内注释的版本，建议配合 [lucia-auth 官方文档](https://lucia-auth.com/) 食用。
+
 ## 阅读顺序
 
 ### 数据库与核心功能
