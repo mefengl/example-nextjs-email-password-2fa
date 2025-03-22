@@ -50,7 +50,13 @@
     - [`components.tsx`](./app/2fa/components.tsx) - 2FA组件
     - [`page.tsx`](./app/2fa/page.tsx) - 2FA页面
     - [`setup/`](./app/2fa/setup/) - 2FA设置
+      - [`actions.ts`](./app/2fa/setup/actions.ts) - 2FA设置相关操作
+      - [`components.tsx`](./app/2fa/setup/components.tsx) - 2FA设置组件
+      - [`page.tsx`](./app/2fa/setup/page.tsx) - 2FA设置页面
     - [`reset/`](./app/2fa/reset/) - 2FA重置
+      - [`actions.ts`](./app/2fa/reset/actions.ts) - 2FA重置相关操作
+      - [`components.tsx`](./app/2fa/reset/components.tsx) - 2FA重置组件
+      - [`page.tsx`](./app/2fa/reset/page.tsx) - 2FA重置页面
 
 21. [`app/verify-email/`](./app/verify-email/) - 邮箱验证
     - [`actions.ts`](./app/verify-email/actions.ts) - 邮箱验证操作
